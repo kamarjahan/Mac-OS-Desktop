@@ -1,7 +1,7 @@
 ## Hello World 👋
 I am planing to make a mac OS simulator using HTML, CSS, and JavaScript 😀
 
-<h1>
+<h1 iam kamarjahan>
   Mac Os Monterey
 </h1>
 
